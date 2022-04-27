@@ -113,4 +113,7 @@ int main() {
     tim(m,vt);
 	return 0;
 }
-//quyet vjp pro no 1
+
+
+
+//tuan ngu bi nhat chui
